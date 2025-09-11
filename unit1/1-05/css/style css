@@ -1,0 +1,8 @@
+<style>
+  #my header{
+    background-color:rgb(255, 0, 43);
+    color:hsl(147, 50%, 47%);
+    padding: 40px;
+    text-align: center;
+  }
+ </style>
